@@ -7,3 +7,4 @@ fi
 echo using $(readlink -f /etc/ntp.keys)
 
 ntpd -g -d
+
